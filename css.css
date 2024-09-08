@@ -3,7 +3,8 @@ img.center_pictures {
     margin-right: auto;
     width: 50%;
     display: block;
+    border: 5px solid #000000;
 }
-p {
+body {
     background-color: blanchedalmond;
 }

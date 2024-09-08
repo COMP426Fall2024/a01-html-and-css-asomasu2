@@ -6,7 +6,7 @@ img.center_pictures {
     border: 5px solid #000000;
 }
 img#splash_bros {
-    size: 100px 150px;
+    width: 30%;
 }
 body {
     background-color: blanchedalmond;

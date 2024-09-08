@@ -12,6 +12,11 @@ p {
     font-family: Arial, Helvetica, sans-serif;
     font-size: medium;
 }
+p.title {
+    font-weight: bold;
+    font-size: x-large;
+    text-align: center;
+}
 table.table {
     border: 3px solid #000000;
     table-layout: fixed;

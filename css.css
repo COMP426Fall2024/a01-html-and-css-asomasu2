@@ -8,3 +8,8 @@ img.center_pictures {
 body {
     background-color: blanchedalmond;
 }
+table {
+    border: 3px solid #000000;
+    table-layout: fixed;
+    border-collapse: collapse;
+}

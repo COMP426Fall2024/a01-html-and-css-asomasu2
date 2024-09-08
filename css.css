@@ -5,7 +5,7 @@ img.center_pictures {
     display: block;
     border: 5px solid #000000;
 }
-img.splash_bros {
+img#splash_bros {
     size: 100px 150px;
 }
 body {

@@ -8,17 +8,12 @@ img.center_pictures {
 img#splash_bros {
     width: 30%;
 }
-img#kd{
-    width: 40%;
-}
 body {
     background-color: blanchedalmond;
 }
 p {
     font-family: Arial, Helvetica, sans-serif;
     font-size: medium;
-    background-color: #deb887;
-    padding: 12x 15px;
 }
 p.bottom_border {
     background-color: aquamarine;
@@ -28,6 +23,7 @@ p.title {
     font-size: x-large;
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
+    padding: 10px;
     border: 3px solid #000000;
 }
 table.table {

@@ -17,6 +17,12 @@ p {
 }
 p.bottom_border {
     background-color: aquamarine;
+    padding: 10px;
+}
+.links {
+    font-weight: bold;
+    color: #f0f8ff;
+    font-family: 'Times New Roman', Times, serif;
 }
 p.title {
     font-weight: bold;

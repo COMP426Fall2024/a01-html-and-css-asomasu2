@@ -16,14 +16,17 @@ p {
     font-size: medium;
 }
 p.bottom_border {
-    background-color: aquamarine;
+    background-color: #6459ed;
     padding: 10px;
-    min-height: 50px;
+    min-height: 100px;
 }
 a.links {
     font-weight: bold;
-    color: #f0f8ff;
+    color: #000000;
     font-family: 'Times New Roman', Times, serif;
+}
+a#right {
+    text-align: right;
 }
 p.title {
     font-weight: bold;

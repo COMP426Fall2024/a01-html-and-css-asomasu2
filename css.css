@@ -18,6 +18,10 @@ p {
     font-family: Arial, Helvetica, sans-serif;
     font-size: medium;
     background-color: #deb887;
+    padding: 12x 15px;
+}
+p.bottom_border {
+    background-color: aquamarine;
 }
 p.title {
     font-weight: bold;

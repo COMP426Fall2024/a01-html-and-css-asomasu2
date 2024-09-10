@@ -24,7 +24,7 @@ p {
     background-color: #6459ed;
     padding: 10px;
     min-height: 30px;
-    border: 5px solid #000000;
+    border: 3px solid #000000;
 }
 a.links {
     font-weight: bold;
@@ -43,6 +43,7 @@ p.title {
     padding: 10px;
     border: 3px solid #000000;
     background-color: burlywood;
+    width: 50%;
 }
 table.table {
     border: 3px solid #000000;
@@ -77,4 +78,8 @@ div {
 ul {
     display: inline-block;
     text-align: left;
+}
+label {
+    align-self: center;
+    padding: 5px;
 }

@@ -27,6 +27,10 @@ a.links {
     display: inline-block;
     vertical-align: middle;
 }
+a#right {
+    text-align: right;
+    float: right;
+}
 p.title {
     font-weight: bold;
     font-size: x-large;

@@ -18,7 +18,7 @@ p {
 p.bottom_border {
     background-color: #6459ed;
     padding: 10px;
-    min-height: 100px;
+    min-height: 50px;
 }
 a.links {
     font-weight: bold;
@@ -27,6 +27,7 @@ a.links {
 }
 a#right {
     text-align: right;
+    float: right;
 }
 p.title {
     font-weight: bold;

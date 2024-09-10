@@ -66,6 +66,6 @@ table.table th, table.table td {
 table.table tbody tr:nth-of-type(even) {
     background-color: #f3f3f3;
 }
-img#hovering:hover {
-    background-image: url('Steph_Klay_2022.jpeg');
+a.links:hover {
+    color: #00bfff;
 }

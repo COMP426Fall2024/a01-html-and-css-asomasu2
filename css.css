@@ -35,6 +35,7 @@ a#left, a#left_1, a#left_2 {
 }
 a#middle, a#middle_1, a#middle_2 {
     text-align: center;
+    display: block;
 }
 p.title {
     font-weight: bold;

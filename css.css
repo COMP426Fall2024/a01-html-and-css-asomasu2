@@ -74,14 +74,3 @@ a.links:hover {
 div {
     text-align: center;
 }
-ul {
-    display: inline-block;
-    text-align: left;
-    padding: 0;
-    list-style: none;
-    border: 2px solid #000000;
-    background-color: #deb887;
-}
-li {
-    padding: 3px, 5px;
-}

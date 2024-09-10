@@ -43,7 +43,6 @@ p.title {
     padding: 10px;
     border: 3px solid #000000;
     background-color: burlywood;
-    width: 50%;
 }
 table.table {
     border: 3px solid #000000;
@@ -78,8 +77,4 @@ div {
 ul {
     display: inline-block;
     text-align: left;
-}
-label {
-    align-self: center;
-    padding: 5px;
 }

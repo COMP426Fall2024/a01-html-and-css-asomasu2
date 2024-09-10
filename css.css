@@ -25,6 +25,7 @@ a.links {
     color: #000000;
     font-family: 'Times New Roman', Times, serif;
     display: inline-block;
+    vertical-align: middle;
 }
 p.title {
     font-weight: bold;

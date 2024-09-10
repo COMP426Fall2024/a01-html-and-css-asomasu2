@@ -24,8 +24,6 @@ a.links {
     font-weight: bold;
     color: #000000;
     font-family: 'Times New Roman', Times, serif;
-    display: inline-block;
-    vertical-align: middle;
 }
 a#right {
     text-align: right;

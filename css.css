@@ -5,11 +5,12 @@ img.center_pictures {
     display: block;
     border: 5px solid #000000;
 }
+
 img#splash_bros {
     width: 30%;
 }
 ul {
-    text-align: center;
+    align-self: center;
 }
 body {
     background-color: blanchedalmond;
@@ -64,4 +65,7 @@ table.table th, table.table td {
 }
 table.table tbody tr:nth-of-type(even) {
     background-color: #f3f3f3;
+}
+img#hovering:hover {
+    background-image: url('Steph_Klay_2022.jpeg');
 }

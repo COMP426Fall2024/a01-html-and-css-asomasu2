@@ -24,6 +24,7 @@ a.links {
     font-weight: bold;
     color: #000000;
     font-family: 'Times New Roman', Times, serif;
+    display: inline-block;
 }
 a#right {
     text-align: right;
@@ -31,7 +32,6 @@ a#right {
 }
 a#middle{
     text-align: center;
-    display: block;
 }
 p.title {
     font-weight: bold;

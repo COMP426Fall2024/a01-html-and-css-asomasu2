@@ -27,13 +27,6 @@ a.links {
     display: inline-block;
     line-height: 1;
 }
-a#right {
-    text-align: right;
-    float: right;
-}
-a#middle{
-    text-align: center;
-}
 p.title {
     font-weight: bold;
     font-size: x-large;

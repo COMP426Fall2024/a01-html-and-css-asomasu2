@@ -25,15 +25,11 @@ a.links {
     color: #000000;
     font-family: 'Times New Roman', Times, serif;
 }
-a#right, a#right_1, a#right_2 {
+a#right {
     text-align: right;
     float: right;
 }
-a#left, a#left_1, a#left_2 {
-    text-align: left;
-    float: left;
-}
-a#middle, a#middle_1, a#middle_2 {
+a#middle{
     text-align: center;
     display: block;
 }

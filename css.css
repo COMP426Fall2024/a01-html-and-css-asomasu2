@@ -74,3 +74,8 @@ a.links:hover {
 div {
     text-align: center;
 }
+ul {
+    list-style: none;
+    border: 3px solid #000000;
+    background-color: #deb887;
+}

@@ -1,4 +1,4 @@
-img.center_pictures {
+.center_pictures {
     margin-left: auto;
     margin-right: auto;
     width: 50%;
@@ -20,10 +20,11 @@ p {
     font-size: medium;
     padding: 10px;
 }
-p.bottom_border {
+.bottom_border {
     background-color: #6459ed;
     padding: 10px;
     min-height: 30px;
+    border: 5px solid #000000;
 }
 a.links {
     font-weight: bold;

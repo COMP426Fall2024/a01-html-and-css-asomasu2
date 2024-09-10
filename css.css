@@ -18,14 +18,14 @@ p {
 p.bottom_border {
     background-color: #6459ed;
     padding: 10px;
-    min-height: 50px;
+    min-height: 30px;
 }
 a.links {
     font-weight: bold;
     color: #000000;
     font-family: 'Times New Roman', Times, serif;
 }
-a#right {
+a#right, a#right_1, a#right_2 {
     text-align: right;
     float: right;
 }

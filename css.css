@@ -70,3 +70,6 @@ table.table tbody tr:nth-of-type(even) {
 a.links:hover {
     color: #00bfff;
 }
+div {
+    text-align: center;
+}

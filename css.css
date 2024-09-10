@@ -76,11 +76,7 @@ div {
 }
 ul {
     display: inline-block;
-    text-align: left;
     list-style: none;
     border: 2px solid #000000;
     background-color: #deb887;
-}
-li {
-    margin: 3px;
 }
